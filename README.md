@@ -39,10 +39,7 @@ Detailed instructions on how to set up and run the project, including how to tra
 The training process results in decreasing loss over epochs, demonstrating learning. The model's performance can be validated against the test set and through visual inspections of predicted versus actual eye coordinates.
 
 ## Contributors
-- [Your Name]
-
-## License
-This project is released under the MIT License.
+- Zhenyuan Ni
 
 ## Example Prediction
 After training, the model can be used to predict eye positions in new images. An example usage is shown in the code snippet where the model predicts eye locations for a given image, comparing it against the actual annotated coordinates.
